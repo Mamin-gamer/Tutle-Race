@@ -1,0 +1,9 @@
+red 6
+green 7
+blue 0
+yellow 2
+pink 1
+orange 2
+purple 0
+black 2
+grey 1
